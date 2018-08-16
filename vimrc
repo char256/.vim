@@ -10,4 +10,7 @@ set shiftwidth=4
 execute pathogen#infect()
 
 map <F3> :NERDTreeToggle<CR>
+imap <C-[> <ESC>
+vmap <C-[> <ESC>
+map <C-[> <ESC>
 
